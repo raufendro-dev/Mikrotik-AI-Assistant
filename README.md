@@ -44,7 +44,7 @@ Catatan:
 3) Tekan **Apply** untuk mengeksekusi.
 
 Contoh video chat:
-- https://youtube.com/shorts/qfm-geXyqE4?si=Ao9VoqLTH81MF0gH
+- [![Demo Telegram Bot](https://img.youtube.com/vi/qfm-geXyqE4/0.jpg)](https://youtube.com/shorts/qfm-geXyqE4?si=Ao9VoqLTH81MF0gH)
 
 ## Environment Variables
 
